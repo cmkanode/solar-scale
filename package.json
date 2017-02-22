@@ -1,0 +1,24 @@
+{
+  "name": "solar-scale",
+  "version": "1.0.0",
+  "description": "Simple app to calculate a scale model of the solar system.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmkanode/solar-scale.git"
+  },
+  "author": "Christopher M. Kanode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmkanode/solar-scale/issues"
+  },
+  "homepage": "https://github.com/cmkanode/solar-scale#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
